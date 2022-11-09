@@ -45,8 +45,8 @@ if (screen.width >= 768) {
         'asteroids',
         'switch-model',
         // 'switch-texture',
-        'photo',
-        'info',
+        // 'photo',
+        // 'info',
         'quit',
       ],
     })
