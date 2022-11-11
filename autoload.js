@@ -39,7 +39,8 @@ if (screen.width >= 768) {
       // Akilar CDN
       // cdnPath: "https://npm.elemecdn.com/akilar-live2dapi@latest/",
       // Kamasylvia CDN
-      cdnPath: 'https://fastly.jsdelivr.net/gh/kamasylvia/live2d_api/',
+      // cdnPath: 'https://fastly.jsdelivr.net/gh/kamasylvia/live2d_api/',
+      cdnPath: "https://npm.elemecdn.com/@kamasylvia/live2d-api@latest/",
       tools: [
         'hitokoto',
         'asteroids',
